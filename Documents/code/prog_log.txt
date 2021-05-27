@@ -1,0 +1,8 @@
+4/13/2021: Made Gantt Chart
+4/14/2021: 2:40pm did some stuff until 3:25 ish ;/.
+4/15/2021: 3:00 pm ish to 5:13 pm - organized workflow from sql to df to text processing
+4/16/2021: 3:20pm - fixing text processing and clustering files 
+4/17/2021: tried to understand LDA
+4/18/2021: tried to figure out online learning 
+4/19/2021: fixing gantt chart and organizing what has been done
+4/20/2021: starting to build small thing
